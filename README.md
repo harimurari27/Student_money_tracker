@@ -25,8 +25,11 @@ An interactive and user-friendly web app to help students plan, track, and visua
 
 
 🌐 HTML5	Structure
+
 🎨 CSS3	Styling & Responsiveness
+
 ⚡ JavaScript	Logic & Interactivity
+
 📊 Chart.js	Data Visualization
 
 📖 How It Works
@@ -40,19 +43,21 @@ Reset Anytime – Clear your plan and start over when needed.
 
 📂 Project Structure
 
-bash
-Copy
-Edit
+
 Money_tracker/
 ├── index.html    # Main UI structure
 ├── styles.css    # Styles and responsive design
 ├── app.js        # Core logic and chart updates
 └── README.md     # Project documentation
+
 💡 Future Improvements
 
 📜 Expense History Table – View detailed expense logs with dates
+
 📤 Export to CSV – Download your spending data for offline records
+
 🌙 Dark Mode – Toggle between light and dark themes
+
 🔔 Toast Notifications – Replace alert() with modern, non-blocking popups
 
 🧑‍💻 Author
