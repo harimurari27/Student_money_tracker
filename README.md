@@ -6,10 +6,15 @@ An interactive and user-friendly web app to help students plan, track, and visua
 🚀 Features
 
 📝 Plan Your Budget – Set your total pocket money, planned spending, and savings goal before you start
+
 💸 Add Expenses – Log your daily expenses with amount and description
+
 📊 Interactive Doughnut Chart – See a visual breakdown of spending vs savings using Chart.js
+
 💾 Persistent Data – Saves your plan and expenses in the browser with localStorage
+
 🔄 Real-time Updates – Instant calculations for remaining spending and savings
+
 ⚠️ Overspending Alerts – Warns you when you try to spend beyond your budget
 
 🧹 Reset Option – Start fresh by clearing all stored data
