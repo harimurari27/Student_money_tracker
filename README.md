@@ -1,5 +1,5 @@
 💰 Student Pocket Money Tracker
-LIVE DEMO LINK: 
+LIVE DEMO LINK: https://harimurari27.github.io/Student_money_tracker/
 
 An interactive and user-friendly web app to help students plan, track, and visualize their pocket money spending and savings — built with HTML, CSS, and JavaScript.
 
@@ -60,5 +60,5 @@ Money_tracker/
 
 🧑‍💻 Author
 Hari Murari
-🔗 [LinkedIn Profile link here]
-📧 [Email address here]
+🔗 https://www.linkedin.com/in/mallelaharimurari/
+📧 mallelaharimurari@gmail.com
